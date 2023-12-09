@@ -27,7 +27,7 @@ public class Main {
         if (b == 0) {
           System.out.println("Invalid calculation!");
         } else {
-          System.out.println("a % b");
+          System.out.println(a % b);
         }
         break;
       default:
